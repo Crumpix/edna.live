@@ -1,0 +1,32 @@
+@font-face {
+  font-family: 'TrimWebLight';
+  src: url('assets/fonts/TrimWebLight.woff') format('woff'), /* Pretty Modern Browsers */
+  url('assets/fonts/TrimWebLight.ttf')  format('truetype'); /* Legacy iOS */
+}
+@font-face {
+  font-family: 'TrimWebThin';
+  src: url('assets/fonts/TrimWebThin.woff') format('woff'), /* Pretty Modern Browsers */
+  url('assets/fonts/TrimWebThin.ttf')  format('truetype') /* Safari, Android, iOS */;
+}
+@font-face {
+  font-family: 'TrimWebRegular';
+  src: url('assets/fonts/TrimWebRegular.woff') format('woff'), /* Pretty Modern Browsers */
+  url('assets/fonts/TrimWebRegular.ttf')  format('truetype') /* Safari, Android, iOS */;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "TrimWebRegular", sans-serif !important;
+}
+p, ul, li, a {
+  font-family: "TrimWebLight", sans-serif !important;
+}
+
+$indie-gray:    #97a8b7 !default;
+$indie-cyan:    #1af8d1 !default;
+
+#svg-sprite {
+  display: none;
+}
+.light-color {
+  color: white;
+}

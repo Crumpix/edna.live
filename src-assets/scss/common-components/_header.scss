@@ -1,0 +1,22 @@
+.site-header {
+  position: absolute;
+  width: 100%;
+  padding-top: 63px;
+  a.nav-link {
+    color: $indie-gray !important;
+  }
+  .container {
+    .row {
+      .col-md-12 {
+        .bg-light {
+          background-color: transparent !important;
+        }
+      }
+    }
+    .navbar-brand {
+      img {
+        width: 50%;
+      }
+    }
+  }
+}
