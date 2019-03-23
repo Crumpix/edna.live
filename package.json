@@ -1,12 +1,12 @@
 {
-  "name": "fuse-tech",
+  "name": "edna-live",
   "version": "1.0.0",
-  "description": " stylesheet and javascript for fuse-tech",
+  "description": " stylesheet and javascript for edna-live",
   "main": "gulpfile.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Zain for Crumpix",
+  "author": "Zain for Tao Ninja",
   "license": "Commerical",
   "devDependencies": {
     "browser-sync": "^2.18.2",
