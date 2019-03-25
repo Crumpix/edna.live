@@ -12,7 +12,7 @@
                     <a href="#">View All</a>
                 </div>
                 <div class="col-md-6">
-                    <p>Aliquam sit amet tellus tortor. Sed sed semper massa. Duis diam sem, molestie ut congue sed, elementum posuere augue. In vel blandit augue. Morbi eget est enim.</p>
+                    <p>Today, more than ever, we can align our DNA and unlock the answers to life by tuning into the Om frequency. When you are ready join our community and find your inner power.</p>
                 </div>
             </div>
         </div>
