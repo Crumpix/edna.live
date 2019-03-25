@@ -2,204 +2,88 @@
     <div class="container">
         <div class="row">
             <div class="col-md-12">
-                <img src="assets/images/fund-build-play.png">
-                <h1>The Next Generation Digital Distribution Platform</h1>
-                <p>with a groundbreaking motivational and referral system, offering both<br />gamers and developers various opportunities to increase their income</p>
-                <a href="#">Learn More</a>
-                <ul class="list-inline list-unstyled">
-                    <li class="list-inline-item"><a href="#">Twitter</a></li>
-                    <li class="list-inline-item"><a href="#">Facebook</a></li>
-                    <li class="list-inline-item"><a href="#">LinkedIn</a></li>
-                    <li class="list-inline-item"><a href="#">Mail</a></li>
-                    <li class="list-inline-item"><a href="#">Bitcoin</a></li>
-                    <li class="list-inline-item"><a href="#">Reddit</a></li>
-                </ul>
-            </div>
-        </div>
-        <div class="row">
-            <div class="col-md-6">
-                <p>Downloadable Resources</p>
-                <button type="button" class="btn btn-primary">White Paper</button>
-                <button type="button" class="btn btn-primary">One Pager</button>
-                <button type="button" class="btn btn-primary">Market Research</button>
-            </div>
-            <div class="col-md-6">
-                <p>Pre-Sale Begins In</p>
-                Counter
+                <h1>Your DNA is your property</h1>
+                <p>Forge your own destiny and define your  DNA. Influence how history unfolds by sharing your DNA with our community.Your decision to share can help cure cancer and reshape your own genetic code.</p>
+                <p>Learn how your DNA strand is being shared around the world and take control of what belongs to you.</p>
             </div>
         </div>
     </div>
 </section>
 
-<section class="what-is">
+<section class="we-are">
     <div class="container">
         <div class="row">
-            <div class="col-md-12">
-                <ul class="list-inline list-unstyled">
-                    <li class="list-inline-item first-inline">Smart Contracts<img src="assets/images/coin-f1.png"></li>
-                    <li class="list-inline-item second-inline"><img src="assets/images/coin-f3.png">P2P Network</li>
-                    <li class="list-inline-item first-inline">indieSTORM Blockchain<img src="assets/images/coin-f2.png"></li>
-                    <li class="list-inline-item second-inline"><img src="assets/images/coin-f4.png">Consensus Protocol</li>
-                </ul>
-                <div class="coin-what-is">
-                    <img src="assets/images/coin-final.png">
-                </div>
-            </div>
-        </div>
-        <div class="row">
-            <div class="col-md-12">
-                <h1>WHAT IS INDIESTORM?</h1>
-                <p>Nulla pulvinar, justo eget faucibus consequat, felis turpis posuere quam, dignissim interdum tortor dui nec odio.<br />
-                    Fusce dignissim aliquam malesuada. Praesent tincidunt lorem nec fringilla porttitor.<br />
-                    Nunc a ante convallis, aliquet nisl eu, consequat libero ac nisi egestas.<br />
-                    Donec cursus ac neque eu molestie.</p>
-            </div>
-        </div>
-        <div class="row">
-            <div class="col-md-4">
-                <h2>GAME OVER FOR CHEATERS</h2>
-                <p>Cras imperdiet mollis turpis vel ultricies.<br />Donec posuere dignissim consectetur.<br />Fusce ullamcorper dictum faucibus.<br />Donec cursus ac neque eu molestie.</p>
-            </div>
-            <div class="col-md-4">
-                <h2>LETS YOU BE INVISIBLE</h2>
-                <p>Cras imperdiet mollis turpis vel ultricies.<br />Donec posuere dignissim consectetur.<br />Fusce ullamcorper dictum faucibus.<br />Donec cursus ac neque eu molestie.</p>
-            </div>
-            <div class="col-md-4">
-                <h2>TRANSFER SPEED = GOD MODE</h2>
-                <p>Cras imperdiet mollis turpis vel ultricies.<br />Donec posuere dignissim consectetur.<br />Fusce ullamcorper dictum faucibus.<br />Donec cursus ac neque eu molestie.</p>
-            </div>
-        </div>
-    </div>
-</section>
-
-<section class="eco-system">
-    <div class="container">
-        <div class="row">
-            <div class="col-md-6">
-                <div class="eco-icon">
-
-                </div>
-                <h2><img src="assets/images/developers-icn.png">FOR DEVELOPERS</h2>
-                <p>You love games. We do too. You want a direct<br />
-                    connection to developers, without the Corporate<br />
-                    Commander getting in the way. Join us & take<br />
-                    part in an entirely new way of gaming.</p>
-            </div>
-            <div class="col-md-6">
-                <h2 class="text-right">FOR GAMERS<img src="assets/images/gamers-icn.png"></h2>
-                <p class="text-right">We will provide you with completely open game<br />
-                    projects, so you can get started right away!<br />
-                    Use tools to gain the spotlight and the funding<br />
-                    to bring gamers’ dreams into reality.</p>
-            </div>
-
-            <div class="col-md-6">
-                <h2><img src="assets/images/streamers-icn.png">FOR STREAMERS</h2>
-                <p>Focus on your content, and stop<br />
-                    worrying about monetization.<br />
-                    Your fans love you. It’s time for a<br />
-                    platform that loves you too.</p>
-            </div>
-
-            <div class="col-md-6">
-                <h2 class="text-right">FOR VIEWERS<img src="assets/images/viewers-icn.png"></h2>
-                <p class="text-right">Reach your core market with our<br />
-                    easy-to-use and transparent system.<br />
-                    We are cutting out the middleman,<br />
-                    and bringing a way like never before.</p>
-            </div>
-        </div>
-        <div class="indie-storm-eco-system">
-            <img src="assets/images/logo-eco.png">
-        </div>
-        <div class="row">
-            <div class="col-md-12">
-                <img src="assets/images/infographic.png">
-            </div>
-        </div>
-    </div>
-</section>
-
-<section class="gaming-experience">
-    <div class="container">
-        <div class="row">
-            <div class="col-md-4">
-                <div class="wrapper-gaming">
-                    <h1>2.5 billion</h1>
-                    <p>Gamers play games on devices</p>
-                    <span>+3% growth in 2017</span>
-                </div>
-            </div>
-            <div class="col-md-4">
-                <div class="wrapper-gaming">
-                    <h1>$3 billion</h1>
-                    <p>Reached games market in 2017</p>
-                    <span>+8.2% growth in 2017</span>
-                </div>
-            </div>
-            <div class="col-md-4">
-                <div class="wrapper-gaming">
-                    <h1>56,785</h1>
-                    <p>New games released in 2017</p>
-                    <span>+15% growth in 2017</span>
-                </div>
-            </div>
-        </div>
-        <div class="row">
-            <div class="col-md-6">
-                <img class="imac" src="assets/images/lcd-left.png">
-            </div>
-            <div class="col-md-6">
-                <h1>THE WORLD'S GAMING EXPERIENCE</h1>
-                <h2>REDEFINING GAMING FOR EVERYONE</h2>
-                <p>Imagine a gaming community that is so collaborative,<br />
-                    interactive; alive, you as a player can create and shape<br />
-                    your own destiny and wealth. What if, as a developer<br />
-                    you could integrate with ease into a live, analytica<br />
-                    platform with deep player insights and new unique<br />
-                    revenue generation models?</p>
-                <img class="play-icon" src="assets/images/play-icn.png">
-            </div>
-        </div>
-    </div>
-</section>
-
-<section class="token-details">
-    <div class="container">
-        <div class="row">
-            <div class="col-md-12 text-center">
-                <h1 class="light-color">INDIETOKEN DETAILS</h1>
-                <p>One in three humans play video games. It’s a $100B industry. The IndieToken currency<br />
-                    and virtual wallet lets gamers and developers buy and sell games and in-game<br />
-                    items faster, safer and more privately than with credit cards.</p>
-            </div>
-        </div>
-        <div class="row token-value">
             <div class="col-md-7">
-                <img src="assets/images/graph.png">
+                <h1 class="text-uppercase">We are EDNA.</h1>
+                <p>EDNA is a Blockchain-based Distributed Autonomous Community Working to Insure Genetic Privacy and DNA Property Rights.</p>
+                <p>The ultimate aim of EDNA is to end human suffering caused by genetic disease, enhance longevity and to insure the genetic information is controlled by the people who that information impacts.</p>
             </div>
-            <div class="col-md-5 text-right">
-                <h1>Increase in value of tokens</h1>
-                <p>Early contributors can receive up to 15% bonus</p>
-            </div>
-        </div>
-        <div class="row token-distribution">
-            <div class="col-md-4">
-                <h1>Token distribution</h1>
-                <p>Here is how the funds from Token<br />
-                    Sale will be allocated.</p>
-            </div>
-            <div class="col-md-8 text-right">
-                <div class="big-pie"><img src="assets/images/pie-big.png"></div>
-                <div class="small-pie"><img src="assets/images/pie-small.png"></div>
+            <div class="col-md-5">
+                <h3>Video Carousel Section</h3>
             </div>
         </div>
-        <div class="row road-map">
-            <div class="col-md-12 text-center">
-                <h1>ROADMAP</h1>
-                <p>Early contributors can receive up to 15% bonus</p>
-                <img src="assets/images/roadmap.png">
+    </div>
+</section>
+
+<section class="what-we-do">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6">
+                Own Your DNA
             </div>
+            <div class="col-md-6">
+                <h3>Ownership</h3>
+                <p>Be the creator and realize the truth that lives within you. No one can claim ownership of your destiny, your DNA. With our proprietary software, you can track your DNA in all scientific areas of researched it is used and claim rights.  Share one destiny with us. Your destiny.</p>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-6">
+                <h3>DECENTRLIZED</h3>
+                <p>Once we load your in our blockchain system, doctors around the world have access to this system and can use the data as needed in their research for the awakening of all of humanity.</p>
+            </div>
+            <div class="col-md-6">
+                Earn Tokens
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-6">
+                Save Lives
+            </div>
+            <div class="col-md-6">
+                <h3>GIVES BACK</h3>
+                <p>EDNA Members support efforts to halt illegal poaching of our precious wildlife as well as help fight trafficking in humans by automatically sending a portion of their profits to support these programs.</p>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-6">
+                <h3>Modification</h3>
+                <p>After we compile thousands of strands, we can have a unified database to find the best strands to duplicate and share with the world. People can choose the healthiest strands and modify their DNA accordingly.</p>
+            </div>
+            <div class="col-md-6">
+                Advancing DNA
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="autonomous-community">
+    <div class="container">
+        <div class="row">
+            <h1>Decentralised Autonomous ComMunity</h1>
+            <p>The EDNA DAC will allow people to control their own genetic data and more importantly genetic futures. It’s rather challenging for governments and organizations to restrict and control information once it’s on the blockchain. That one’s important, but that’s all I’m saying for now. </p>
+            <p>Also important is the ability to secure your personal genetic information, and be in control of its monetization.</p>
+            <a href="#">Learn More</a>
+        </div>
+    </div>
+</section>
+
+<section class="power-science">
+    <div class="container">
+        <div class="row">
+            <h1>Power Your Science</h1>
+            <p>When you awaken yourself to the Om, you will understand energy, business, love, and all else in between on a whole new level. This is best explained as a vibration that sends sensations to all parts of your body, mind, and spirit. </p>
+            <p>If you want to find the secrets of the universe, think in terms of energy, frequency and vibration. </p>
+            <p>Know Yourself</p>
         </div>
     </div>
 </section>

@@ -30,24 +30,18 @@
                         </button>
                     </div>
                     <div class="collapse navbar-collapse col-md-7" id="navbarNav">
-                        <ul class="navbar-nav">
+                        <ul class="navbar-nav text-uppercase">
                             <li class="nav-item active">
-                                <a class="nav-link" href="#">About <span class="sr-only">(current)</span></a>
+                                <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="#">How It Works</a>
+                                <a class="nav-link" href="#">Community</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="#">Stats</a>
+                                <a class="nav-link" href="#">Project</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="#">Roadmap</a>
-                            </li>
-                            <li class="nav-item">
-                                <a class="nav-link" href="#">EN</a>
-                            </li>
-                            <li class="nav-item">
-                                <a class="nav-link" href="#">Login/Register</a>
+                                <a class="nav-link" href="#">News</a>
                             </li>
                         </ul>
                     </div>

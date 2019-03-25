@@ -5,7 +5,4 @@
 </main>
 <?php require_once __DIR__ . '/common-components/footer.php'; ?>
 
-
-
-	
 	

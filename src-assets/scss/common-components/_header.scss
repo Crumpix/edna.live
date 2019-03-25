@@ -3,7 +3,9 @@
   width: 100%;
   padding-top: 63px;
   a.nav-link {
-    color: $indie-gray !important;
+    color: $white-color !important;
+    font-size: $font-size-h4;
+    font-weight: 400;
   }
   .container {
     .row {
@@ -15,7 +17,7 @@
     }
     .navbar-brand {
       img {
-        width: 50%;
+        width: 100%;
       }
     }
   }
