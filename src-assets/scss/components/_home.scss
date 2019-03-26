@@ -4,7 +4,7 @@
   padding-bottom: 70px;
   background-size: cover;
   height: 100vh;
-  .col-md-12 {
+  .col-md-7 {
     color: white;
     img {
       margin-bottom: 100px;
@@ -27,19 +27,42 @@
 }
 .we-are {
   background-color: #fff;
-  padding-top: 30px;
+  padding-top: 70px;
   padding-bottom: 102px;
 }
 
 .what-we-do {
   background: #ececec;
   background-size: cover;
-  padding-top: 72px;
-  padding-bottom: 20px;
+  .own-your-dna {
+    background: url("assets/images/own-your-dna.png") center center;
+    min-height: 522px;
+  }
+  .earn-tokens {
+    background: url("assets/images/earn-token.png") center center;
+    min-height: 522px;
+  }
+  .save-lives {
+    background: url("assets/images/save-lives.png") center center;
+    min-height: 522px;
+  }
+  .advancing-dna {
+    background: url("assets/images/advancing-dna.png") center center;
+    min-height: 522px;
+  }
+  .right-description {
+    padding-left: 120px;
+    padding-top: 130px;
+  }
+  .left-description {
+    padding-right: 120px;
+    padding-top: 130px;
+  }
 }
 .autonomous-community {
+  background: url("assets/images/autonomous-community.png") bottom right no-repeat;
   background-color: #fff;
-  padding-top: 97px;
+  padding-top: 156px;
   padding-bottom: 85px;
 }
 .power-science {
