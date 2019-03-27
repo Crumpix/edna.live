@@ -1,12 +1,20 @@
 <section class="mast-head">
     <div class="container">
         <div class="row">
-            <div class="col-md-7">
-                <h1>Your DNA is your property</h1>
+            <div class="col-md-8">
+                <p class="latest-news"><span class="badge badge-secondary">New</span>SomaticNet mutation caller, released at NeurIPS 2018<span class="oi oi-arrow-right"></span></p>
+                <h1 class="text-uppercase">Your DNA is your property</h1>
+            </div>
+            <div class="col-md-4">
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-6">
                 <p>Forge your own destiny and define your  DNA. Influence how history unfolds by sharing your DNA with our community.Your decision to share can help cure cancer and reshape your own genetic code.</p>
                 <p>Learn how your DNA strand is being shared around the world and take control of what belongs to you.</p>
             </div>
-            <div class="col-md-5">
+            <div class="col-md-6">
+
             </div>
         </div>
     </div>
@@ -16,6 +24,7 @@
     <div class="container">
         <div class="row">
             <div class="col-md-7">
+                <img src="assets/images/edna-logo.png">
                 <h1 class="text-uppercase">We are EDNA.</h1>
                 <p>EDNA is a Blockchain-based Distributed Autonomous Community Working to Insure Genetic Privacy and DNA Property Rights.</p>
                 <p>The ultimate aim of EDNA is to end human suffering caused by genetic disease, enhance longevity and to insure the genetic information is controlled by the people who that information impacts.</p>

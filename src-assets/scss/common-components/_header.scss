@@ -7,6 +7,10 @@
     font-size: $font-size-h4;
     font-weight: 400;
   }
+  .navbar-expand-lg .navbar-nav .nav-link {
+    padding-right: 20px;
+    padding-left: 20px;
+  }
   .container {
     .row {
       .col-md-12 {

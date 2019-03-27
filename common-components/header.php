@@ -23,13 +23,13 @@
         <div class="row">
             <div class="col-md-12">
                 <nav class="row navbar navbar-expand-lg navbar-light bg-light">
-                    <div class="col-md-5">
+                    <div class="col-md-6">
                         <a class="navbar-brand" href="#"><img src="assets/images/logo-head.png"></a>
                         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                             <span class="navbar-toggler-icon"></span>
                         </button>
                     </div>
-                    <div class="collapse navbar-collapse col-md-7" id="navbarNav">
+                    <div class="collapse navbar-collapse col-md-6" id="navbarNav">
                         <ul class="navbar-nav text-uppercase">
                             <li class="nav-item active">
                                 <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>

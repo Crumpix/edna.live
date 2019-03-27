@@ -1,18 +1,30 @@
 .mast-head {
   background: url("assets/images/head-bg.png") center center;
-  padding-top: 339px;
-  padding-bottom: 70px;
+  padding-top: 317px;
+  padding-bottom: 270px;
+  color: white;
   background-size: cover;
-  height: 100vh;
-  .col-md-7 {
-    color: white;
+  .col-md-8 {
+    .latest-news {
+      font-size: 11px;
+      margin-bottom: 36px;
+    }
+    .badge-secondary {
+      background-color: #78c2e9;
+      text-transform: uppercase;
+      margin-right: 10px;
+      border-radius: 23px;
+      font-size: 10px;
+      padding-top: 4.5px;
+      padding-right: 6px;
+      padding-left: 6px;
+    }
     img {
       margin-bottom: 100px;
     }
     h1 {
-      margin-bottom: 32px !important;
-      text-transform: uppercase !important;
-      font-size: 31px !important;
+      margin-bottom: 0px;
+      margin-bottom: 50px;
     }
   }
   .col-md-6 {
