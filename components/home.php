@@ -104,7 +104,7 @@
                 <h1>Power Your Science</h1>
                 <p>When you awaken yourself to the Om, you will understand energy, business, love, and all else in between on a whole new level. This is best explained as a vibration that sends sensations to all parts of your body, mind, and spirit. </p>
                 <p>If you want to find the secrets of the universe, think in terms of energy, frequency and vibration. </p>
-                <p>Know Yourself</p>
+                <button type="button" class="btn btn-primary">Know Yourself</button>
             </div>
         </div>
     </div>

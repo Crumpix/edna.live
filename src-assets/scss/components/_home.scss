@@ -120,18 +120,29 @@
   }
 }
 .power-science {
-  background: #71f4e4; /* Old browsers */
-  background: -moz-linear-gradient(top, #71f4e4 0%, #889ad0 49%, #e4449d 99%); /* FF3.6-15 */
-  background: -webkit-linear-gradient(top, #71f4e4 0%,#889ad0 49%,#e4449d 99%); /* Chrome10-25,Safari5.1-6 */
-  background: linear-gradient(to bottom, #71f4e4 0%,#889ad0 49%,#e4449d 99%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#71f4e4', endColorstr='#e4449d',GradientType=0 ); /* IE6-9 */
-  padding-top: 119px;
-  padding-bottom: 271px;
-  background-size: 100%;
+  background: #243c42; /* Old browsers */
+  background: -moz-linear-gradient(top, #243c42 0%, #431631 100%); /* FF3.6-15 */
+  background: -webkit-linear-gradient(top, #243c42 0%,#431631 100%); /* Chrome10-25,Safari5.1-6 */
+  background: linear-gradient(to bottom, #243c42 0%,#431631 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#243c42', endColorstr='#431631',GradientType=0 ); /* IE6-9 */
+  padding-top: 179px;
+  padding-bottom: 166px;
   h1 {
     color: white;
+    text-transform: uppercase;
+    margin-bottom: 50px;
+    line-height: 50px;
   }
   p {
     color: white;
+    margin-bottom: 50px;
+  }
+  .col-md-5 {
+    position: relative;
+    img {
+      position: absolute;
+      left: 0;
+      top: -52px;
+    }
   }
 }
