@@ -1,11 +1,11 @@
 <section class="mast-head">
     <div class="container">
         <div class="row">
-            <div class="col-md-8">
+            <div class="col-md-9">
                 <p class="latest-news"><span class="badge badge-secondary">New</span>SomaticNet mutation caller, released at NeurIPS 2018<span class="oi oi-arrow-right"></span></p>
                 <h1 class="text-uppercase">Your DNA is your property</h1>
             </div>
-            <div class="col-md-4">
+            <div class="col-md-3">
             </div>
         </div>
         <div class="row">

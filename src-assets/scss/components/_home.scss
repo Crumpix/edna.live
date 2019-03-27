@@ -4,9 +4,9 @@
   padding-bottom: 270px;
   color: white;
   background-size: cover;
-  .col-md-8 {
+  .col-md-9 {
     .latest-news {
-      font-size: 11px;
+      font-size: 14px;
       margin-bottom: 36px;
     }
     .badge-secondary {
@@ -25,6 +25,10 @@
     h1 {
       margin-bottom: 0px;
       margin-bottom: 50px;
+      line-height: 50px;
+    }
+    p {
+      margin-bottom: 52px;
     }
   }
   .col-md-6 {
@@ -41,6 +45,14 @@
   background-color: #fff;
   padding-top: 70px;
   padding-bottom: 102px;
+  img {
+    margin-bottom: 150px;
+  }
+  h1 {
+    font-weight: 700;
+    margin-bottom: 50px;
+    margin-top: 0;
+  }
 }
 
 .what-we-do {
