@@ -30,7 +30,7 @@
                 <p>The ultimate aim of EDNA is to end human suffering caused by genetic disease, enhance longevity and to insure the genetic information is controlled by the people who that information impacts.</p>
             </div>
             <div class="col-md-5">
-                <h3>Video Carousel Section</h3>
+            
             </div>
         </div>
     </div>

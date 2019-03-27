@@ -44,7 +44,9 @@
 .we-are {
   background-color: #fff;
   padding-top: 70px;
-  padding-bottom: 102px;
+  padding-bottom: 270px;
+  background: url("assets/images/we-are-edna.png") right center;
+  background-repeat: no-repeat;
   img {
     margin-bottom: 150px;
   }
@@ -52,35 +54,54 @@
     font-weight: 700;
     margin-bottom: 50px;
     margin-top: 0;
+    line-height: 50px;
   }
 }
 
 .what-we-do {
   background: #ececec;
   background-size: cover;
+  h3 {
+    font-size: 33px;
+    text-transform: uppercase;
+    font-weight: 700;
+  }
+  p {
+    max-width: 580px;
+  }
   .own-your-dna {
-    background: url("assets/images/own-your-dna.png") center center;
+    background: url("assets/images/own-your-dna.png");
+    background-size: cover;
     min-height: 522px;
   }
   .earn-tokens {
-    background: url("assets/images/earn-token.png") center center;
+    background: url("assets/images/earn-token.png");
     min-height: 522px;
+    background-size: cover;
   }
   .save-lives {
-    background: url("assets/images/save-lives.png") center center;
+    background: url("assets/images/save-lives.png");
     min-height: 522px;
+    background-size: cover;
   }
   .advancing-dna {
-    background: url("assets/images/advancing-dna.png") center center;
+    background: url("assets/images/advancing-dna.png");
     min-height: 522px;
+    background-size: cover;
   }
   .right-description {
     padding-left: 120px;
     padding-top: 130px;
+    p {
+      float: left;
+    }
   }
   .left-description {
     padding-right: 120px;
     padding-top: 130px;
+    p {
+      float: right;
+    }
   }
 }
 .autonomous-community {
