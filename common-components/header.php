@@ -7,7 +7,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
     <link rel="icon" href="favicon.ico">
-    <title>IndieStorm | Digital Distribution Platform</title>
+    <title>EDNA | Your DNA is your property</title>
     <style>
         <?php
             $css = file_get_contents('style.css');

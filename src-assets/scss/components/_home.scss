@@ -108,7 +108,16 @@
   background: url("assets/images/autonomous-community.png") bottom right no-repeat;
   background-color: #fff;
   padding-top: 156px;
-  padding-bottom: 85px;
+  padding-bottom: 224px;
+  h1 {
+    font-size: 50px !important;
+    line-height: 50px;
+    font-weight: 700;
+    margin-bottom: 60px;
+  }
+  p {
+    margin-bottom: 45px;
+  }
 }
 .power-science {
   background: #71f4e4; /* Old browsers */

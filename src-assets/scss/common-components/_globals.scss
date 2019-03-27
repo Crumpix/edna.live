@@ -2,6 +2,19 @@ body {
   font-size: 20px !important;
   font-weight: 100 !important;
   line-height: 38px !important;
+  .btn-primary {
+    background-color: #69cac1;
+    text-transform: uppercase;
+    border-radius: 0;
+    border-color: #69cac1;
+    font-size: 30px;
+    font-weight: 600;
+    padding-top: 22px;
+    padding-bottom: 22px;
+    padding-right: 35px;
+    padding-left: 35px;
+    line-height: 23px;
+  }
 }
 
 h1, h2, h3, h4, h5, h6 {
