@@ -33,3 +33,12 @@ $indie-cyan:    #1af8d1 !default;
 .light-color {
   color: white;
 }
+
+.icon {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  stroke-width: 0;
+  stroke: currentColor;
+  fill: currentColor;
+}
