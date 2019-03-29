@@ -207,4 +207,19 @@
   }
 }
 
+@media (max-width: 767.98px) { 
+  .flex-row-reverse {
+    display: flex;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px;
+  }
+  .what-we-do .left-description {
+    padding-right: 0;
+  }
+  .what-we-do .right-description {
+    padding-left: 0;
+  }
+ }
+
 
