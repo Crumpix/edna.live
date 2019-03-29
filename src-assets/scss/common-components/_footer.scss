@@ -47,3 +47,12 @@
         }
     }
 }
+
+/* Media Queries */
+
+@media (max-width: 768px) { 
+    .flex-row-reverse {
+      flex-direction: row !important;
+    }
+    
+  }

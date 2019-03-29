@@ -73,21 +73,33 @@
     background: url("assets/images/own-your-dna.png");
     background-size: cover;
     min-height: 522px;
+    h1 {
+      width: 312px;
+    }
   }
   .earn-tokens {
     background: url("assets/images/earn-token.png");
     min-height: 522px;
     background-size: cover;
+    h1 {
+      width: 282px;
+    }
   }
   .save-lives {
     background: url("assets/images/save-lives.png");
     min-height: 522px;
     background-size: cover;
+    h1 {
+      width: 235px;
+    }
   }
   .advancing-dna {
     background: url("assets/images/advancing-dna.png");
     min-height: 522px;
     background-size: cover;
+    h1 {
+      width: 322px;
+    }
   }
   .right-description {
     padding-left: 120px;
@@ -101,6 +113,25 @@
     padding-top: 130px;
     p {
       float: right;
+    }
+  }
+  .featured-image {
+    position: relative;
+    h1 {
+      font-size: 35.5px!important;
+      text-align: center;
+      text-transform: uppercase;
+      position: absolute;
+      right: 0;
+      left: 0;
+      bottom: 55px;
+      padding-top: 20px;
+      padding-bottom: 20px;
+      background: rgba(0,0,0,.5);
+      color: white;
+      font-weight: 700;
+      margin-right: auto;
+      margin-left: auto;
     }
   }
 }
@@ -146,3 +177,5 @@
     }
   }
 }
+
+
