@@ -2,7 +2,7 @@
     <div class="container">
         <div class="row">
             <div class="col-md-9">
-                <p class="latest-news"><span class="badge badge-secondary">New</span>SomaticNet mutation caller, released at NeurIPS 2018<span class="oi oi-arrow-right"></span></p>
+                <p class="latest-news"><span class="badge badge-secondary">New</span>SomaticNet mutation caller, released at NeurIPS 2018<a href="#"><svg class="icon icon-circle-right"><use xlink:href="#icon-circle-right"></use></svg></a></p>
                 <h1 class="text-uppercase">Your DNA is your property</h1>
             </div>
             <div class="col-md-3">
@@ -17,6 +17,7 @@
 
             </div>
         </div>
+        <a href="#"><svg class="icon icon-arrow-down2"><use xlink:href="#icon-arrow-down2"></use></svg></a>
     </div>
 </section>
 
