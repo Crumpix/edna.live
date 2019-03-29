@@ -220,6 +220,34 @@
   .what-we-do .right-description {
     padding-left: 0;
   }
+  .navbar-light .navbar-toggler {
+    background: rgba(255,255,255, 0.8);
+  }
+  .site-footer .pre-footer .border-left {
+    display: none;
+  }
+  .site-footer .pre-footer .border-bottom-two {
+    display: none;
+  }
+  .site-footer .pre-footer p {
+    padding-left: 0;
+    padding-top: 80px;
+  }
+  .site-footer .pre-footer {
+    padding-bottom: 20px;
+  }
+  .site-footer .post-footer .icon {
+    margin-bottom: 25px;
+  }
+  .site-footer .post-footer p {
+    font-size: 14px;
+  }
+  
+
+.power-science .col-md-5 img {
+  position: relative;
+  width: 100%;
+  }
  }
 
 
