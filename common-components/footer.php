@@ -21,10 +21,10 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-6">
-                    <svg class="icon icon-paperplane"><use xlink:href="#icon-paperplane"></use></svg>
-                    <svg class="icon icon-facebook"><use xlink:href="#icon-facebook"></use></svg>
-                    <svg class="icon icon-twitter"><use xlink:href="#icon-twitter"></use></svg>
-                    <svg class="icon icon-linkedin"><use xlink:href="#icon-linkedin"></use></svg>
+                    <a href="#"><svg class="icon icon-paperplane"><use xlink:href="#icon-paperplane"></use></svg></a>
+                    <a href="#"><svg class="icon icon-facebook"><use xlink:href="#icon-facebook"></use></svg></a>
+                    <a href="#"><svg class="icon icon-twitter"><use xlink:href="#icon-twitter"></use></svg></a>
+                    <a href="#"><svg class="icon icon-linkedin"><use xlink:href="#icon-linkedin"></use></svg></a>
                 </div>
                 <div class="col-md-6">
                     <p>&copy; Copyrights 2019 EDNA. ALL RIGHTS RESERVED.</p>    
