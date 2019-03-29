@@ -103,9 +103,17 @@
   }
   .right-description {
     padding-left: 120px;
-    padding-top: 130px;
+    padding-top: 110px;
     p {
       float: left;
+      padding-top: 47px;
+    }
+    img {
+      display: inline-block;
+      margin-right: 36px;
+    }
+    h3 {
+      display: inline-block;
     }
   }
   .left-description {
@@ -113,6 +121,12 @@
     padding-top: 130px;
     p {
       float: right;
+    }
+    img {
+      display: inline-block;
+    }
+    h3 {
+      display: inline-block;
     }
   }
   .featured-image {

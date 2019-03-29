@@ -43,8 +43,8 @@
                 <h1>Own Your DNA</h1>
             </div>  
             <div class="col-md-6 col-sm-12 right-description">
-                <h3>Ownership</h3>
-                <p>Be the creator and realize the truth that lives within you. No one can claim ownership of your destiny, your DNA. With our proprietary software, you can track your DNA in all scientific areas of researched it is used and claim rights.  Share one destiny with us. Your destiny.</p>
+                <img src="assets/images/ownership-shape.png"><h3>Ownership</h3>
+                <p>Be the creator and realize the truth that lives within you. No one can claim ownership of your destiny, your DNA. With our proprietary software, you can track your DNA in all scientific areas.<!-- of researched it is used and claim rights.  Share one destiny with us. Your destiny.--></p>
             </div>
         </div>
         <div class="d-flex flex-row-reverse">
@@ -52,7 +52,7 @@
                 <h1>Earn Tokens</h1>
             </div>
             <div class="col-md-6 col-sm-12 left-description text-right">
-                <h3>DECENTRLIZED</h3>
+                <h3>DECENTRLIZED</h3><img src="assets/images/decentrlized-shape.png">
                 <p>Once we load your in our blockchain system, doctors around the world have access to this system and can use the data as needed in their research for the awakening of all of humanity.</p>
             </div>
         </div>
@@ -61,7 +61,7 @@
                 <h1>Save Lives</h1>
             </div>
             <div class="col-md-6 col-sm-12 right-description">
-                <h3>GIVES BACK</h3>
+                <img src="assets/images/gives-back-shape.png"><h3>GIVES BACK</h3>
                 <p>EDNA Members support efforts to halt illegal poaching of our precious wildlife as well as help fight trafficking in humans by automatically sending a portion of their profits to support these programs.</p>
             </div>
         </div>
@@ -70,7 +70,7 @@
                 <h1>Advancing DNA</h1>
             </div>
             <div class="col-md-6 col-sm-12 left-description text-right">
-                <h3>Modification</h3>
+                <h3>Monetization</h3><img src="assets/images/monetization-shape.png">
                 <p>After we compile thousands of strands, we can have a unified database to find the best strands to duplicate and share with the world. People can choose the healthiest strands and modify their DNA accordingly.</p>
             </div>
         </div>
