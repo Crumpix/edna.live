@@ -13,6 +13,8 @@
                 </div>
                 <div class="col-md-6">
                     <p>Today, more than ever, we can align our DNA and unlock the answers to life by tuning into the Om frequency. When you are ready join our community and find your inner power.</p>
+                    <div class="border-left"></div>
+                    <div class="border-bottom-two"></div>
                 </div>
             </div>
         </div>
