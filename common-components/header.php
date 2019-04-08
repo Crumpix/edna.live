@@ -14,6 +14,7 @@
             echo $css;
         ?>
     </style>
+    <link href="https://www.jqueryscript.net/css/jquerysctipttop.css" rel="stylesheet" type="text/css">
 </head>
 <body>
 <?php require_once "svg-icons.php"; ?>

@@ -30,8 +30,15 @@
                 <p>EDNA is a Blockchain-based Distributed Autonomous Community Working to Insure Genetic Privacy and DNA Property Rights.</p>
                 <p>The ultimate aim of EDNA is to end human suffering caused by genetic disease, enhance longevity and to insure the genetic information is controlled by the people who that information impacts.</p>
             </div>
-            <div class="col-md-5">
-            
+            <div class="col-md-5">    
+                <div class="card-carousel">
+                    <div class="my-card"></div>
+                    <div class="my-card"></div>
+                    <div class="my-card"></div>
+                    <div class="my-card"></div>
+                    <div class="my-card"></div>
+                    <div class="my-card"></div>
+                </div>
             </div>
         </div>
     </div>
