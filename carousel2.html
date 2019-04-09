@@ -58,7 +58,9 @@ html body .heading a .fab {
   display: flex;
   align-items: center;
   justify-content: center;
-  position: relative;
+  position: absolute;
+  top: -450px;
+  left: -50% 
 }
 
 .card-carousel .my-card {
@@ -73,6 +75,13 @@ html body .heading a .fab {
   pointer-events: none;
   background: url("assets/images/polygon.png");
   transition: 1s;
+}
+
+.card-carousel .my-card.firstcard.active {
+  top: 127px;
+}
+.card-carousel .my-card.secondcard.next {
+  top: 127px;
 }
 
 .card-carousel .my-card:after {
@@ -214,6 +223,7 @@ html body .heading a .fab {
   opacity: 1;
   pointer-events: auto;
   transition: 1s;
+  margin-top: 270px;
   margin-left: -240px;
 }
 
@@ -226,17 +236,17 @@ html body .heading a .fab {
   transition: 1s;
 }
 .card-carousel .my-card.next {
-  margin-top: -180px;
-  margin-left: -216px;
+  margin-top: 38px;
+  margin-left: -219px;
 }
 .card-carousel .my-card.prev {
-  margin-top: 270px;
+  margin-top: 524px;
 }
 </style>
 </head>
 <body>
 <section class="we-are">
-    <div class="">
+    <div class="container-fluid">
         <div class="row">
             <div class="col-md-7">
                 <img src="assets/images/edna-logo.png">
@@ -245,10 +255,17 @@ html body .heading a .fab {
                 <p>The ultimate aim of EDNA is to end human suffering caused by genetic disease, enhance longevity and to insure the genetic information is controlled by the people who that information impacts.</p>
             </div>
             <div class="col-md-5">    
-             
+             <div class="card-carousel">
+                    <div class="my-card firstcard"></div>
+                    <div class="my-card secondcard"></div>
+                    <div class="my-card"></div>
+                    <!-- <div class="my-card"></div>
+                    <div class="my-card"></div>
+                    <div class="my-card"></div> -->
+                </div>
             </div>
         </div>
-        <div class="row">
+        <!-- <div class="row">
             <div class="col-md-12">
                 <div class="card-carousel">
                     <div class="my-card"></div>
@@ -259,7 +276,7 @@ html body .heading a .fab {
                     <div class="my-card"></div>
                 </div>
             </div>
-        </div>
+        </div> -->
     </div>
 </section>
 <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha384-tsQFqpEReu7ZLhBV2VZlAu7zcOV+rXbYlF2cqB8txI/8aZajjp4Bqd+V6D5IgvKT" crossorigin="anonymous"></script> 

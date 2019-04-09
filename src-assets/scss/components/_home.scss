@@ -1,9 +1,17 @@
 .mast-head {
-  background: url("assets/images/head-bg.png") center center;
+  /* background: url("assets/images/head-bg.png") center center; */
   padding-top: 317px;
   padding-bottom: 270px;
   color: white;
   background-size: cover;
+  /* Style the video: 100% width and height to cover the entire window */
+  #myVideo {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    min-width: 100%; 
+    min-height: 100%;
+  }
   .container {
     position: relative;
     .icon-arrow-down2 {
@@ -211,7 +219,10 @@
   }
 }
 
-@media (max-width: 767.98px) { 
+@media (max-width: 767.98px) {
+  .what-we-do h3 {
+    font-size: 25px !important;
+  } 
   .flex-row-reverse {
     display: flex;
     flex-wrap: wrap;
@@ -219,10 +230,14 @@
     margin-left: -15px;
   }
   .what-we-do .left-description {
-    padding-right: 0;
+    padding-right: 15px;
+    padding-top: 35px;
+    padding-bottom: 30px;
   }
   .what-we-do .right-description {
-    padding-left: 0;
+    padding-left: 15px;
+    padding-top: 35px;
+    padding-bottom: 30px;
   }
   .navbar-light .navbar-toggler {
     background: rgba(255,255,255, 0.8);
@@ -246,191 +261,38 @@
   .site-footer .post-footer p {
     font-size: 14px;
   }
-  
-
-.power-science .col-md-5 img {
-  position: relative;
-  width: 100%;
+  .power-science .col-md-5 img {
+    position: relative;
+    width: 100%;
+  }
+  .autonomous-community h1 {
+    font-size: 42px !important;
+  }
+  h1 {
+    font-size: 41px !important;
+  }
+  .what-we-do .own-your-dna {
+    min-height: 232px;
+  }
+  .what-we-do .earn-tokens {
+    min-height: 232px;
+  }
+  .what-we-do .save-lives {
+    min-height: 232px; 
+  }
+  .what-we-do .advancing-dna {
+    min-height: 232px;
+  }
+  .what-we-do .left-description img {
+    float: left;
+    margin-left: 0;
+    margin-right: 35px;
+  }
+  .what-we-do .left-description h3 {
+    margin-top: 40px;
+    margin-right: 8px;
+  }
+  .what-we-do .left-description {
+    text-align: left !important;
   }
  }
-
-/* Carousel */
-
-.card-carousel {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  position: relative;
-}
-
-.card-carousel .my-card {
-  height: 499px;
-  width: 432px;
-  position: relative;
-  z-index: 1;
-  -webkit-transform: scale(0.6) translateY(-2rem);
-  transform: scale(0.6) translateY(-2rem);
-  opacity: 0;
-  cursor: pointer;
-  pointer-events: none;
-  background: url("assets/images/polygon.png");
-  transition: 1s;
-}
-
-.card-carousel .my-card:after {
-  content: '';
-  position: absolute;
-  height: 2px;
-  width: 100%;
-  border-radius: 100%;
-  background-color: rgba(0,0,0,0.3);
-  bottom: -5rem;
-  -webkit-filter: blur(4px);
-  filter: blur(4px);
-}
-
-.card-carousel .my-card:nth-child(0):before {
-  content: '0';
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  -webkit-transform: translateX(-50%) translateY(-50%);
-  transform: translateX(-50%) translateY(-50%);
-  font-size: 3rem;
-  font-weight: 300;
-  color: #fff;
-}
-
-.card-carousel .my-card:nth-child(1):before {
-  content: '1';
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  -webkit-transform: translateX(-50%) translateY(-50%);
-  transform: translateX(-50%) translateY(-50%);
-  font-size: 3rem;
-  font-weight: 300;
-  color: #fff;
-}
-
-.card-carousel .my-card:nth-child(2):before {
-  content: '2';
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  -webkit-transform: translateX(-50%) translateY(-50%);
-  transform: translateX(-50%) translateY(-50%);
-  font-size: 3rem;
-  font-weight: 300;
-  color: #fff;
-}
-
-.card-carousel .my-card:nth-child(3):before {
-  content: '3';
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  -webkit-transform: translateX(-50%) translateY(-50%);
-  transform: translateX(-50%) translateY(-50%);
-  font-size: 3rem;
-  font-weight: 300;
-  color: #fff;
-}
-
-.card-carousel .my-card:nth-child(4):before {
-  content: '4';
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  -webkit-transform: translateX(-50%) translateY(-50%);
-  transform: translateX(-50%) translateY(-50%);
-  font-size: 3rem;
-  font-weight: 300;
-  color: #fff;
-}
-
-.card-carousel .my-card:nth-child(5):before {
-  content: '5';
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  -webkit-transform: translateX(-50%) translateY(-50%);
-  transform: translateX(-50%) translateY(-50%);
-  font-size: 3rem;
-  font-weight: 300;
-  color: #fff;
-}
-
-.card-carousel .my-card:nth-child(6):before {
-  content: '6';
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  -webkit-transform: translateX(-50%) translateY(-50%);
-  transform: translateX(-50%) translateY(-50%);
-  font-size: 3rem;
-  font-weight: 300;
-  color: #fff;
-}
-
-.card-carousel .my-card:nth-child(7):before {
-  content: '7';
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  -webkit-transform: translateX(-50%) translateY(-50%);
-  transform: translateX(-50%) translateY(-50%);
-  font-size: 3rem;
-  font-weight: 300;
-  color: #fff;
-}
-
-.card-carousel .my-card:nth-child(8):before {
-  content: '8';
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  -webkit-transform: translateX(-50%) translateY(-50%);
-  transform: translateX(-50%) translateY(-50%);
-  font-size: 3rem;
-  font-weight: 300;
-  color: #fff;
-}
-
-.card-carousel .my-card:nth-child(9):before {
-  content: '9';
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  -webkit-transform: translateX(-50%) translateY(-50%);
-  transform: translateX(-50%) translateY(-50%);
-  font-size: 3rem;
-  font-weight: 300;
-  color: #fff;
-}
-
-.card-carousel .my-card.active {
-  z-index: 3;
-  -webkit-transform: scale(1) translateY(0) translateX(0);
-  transform: scale(1) translateY(0) translateX(0);
-  opacity: 1;
-  pointer-events: auto;
-  transition: 1s;
-  margin-left: -240px;
-}
-
-.card-carousel .my-card.prev, .card-carousel .my-card.next {
-  z-index: 2;
-  -webkit-transform: scale(0.8) translateY(-1rem) translateX(0);
-  transform: scale(0.7) translateY(-1rem) translateX(0);
-  opacity: 0.6;
-  pointer-events: auto;
-  transition: 1s;
-}
-.card-carousel .my-card.next {
-  margin-top: -180px;
-  margin-left: -216px;
-}
-.card-carousel .my-card.prev {
-  margin-top: 270px;
-}

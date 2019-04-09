@@ -1,4 +1,8 @@
 <section class="mast-head">
+    <!-- The video -->
+    <video autoplay muted loop id="myVideo">
+        <source src="assets/videos/bg-video.mp4" type="video/mp4">
+    </video>
     <div class="container">
         <div class="row">
             <div class="col-md-9">
@@ -31,14 +35,7 @@
                 <p>The ultimate aim of EDNA is to end human suffering caused by genetic disease, enhance longevity and to insure the genetic information is controlled by the people who that information impacts.</p>
             </div>
             <div class="col-md-5">    
-                <div class="card-carousel">
-                    <div class="my-card"></div>
-                    <div class="my-card"></div>
-                    <div class="my-card"></div>
-                    <div class="my-card"></div>
-                    <div class="my-card"></div>
-                    <div class="my-card"></div>
-                </div>
+               
             </div>
         </div>
     </div>

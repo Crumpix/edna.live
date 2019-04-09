@@ -212,7 +212,10 @@ html body .heading a .fab {
   opacity: 1;
   pointer-events: auto;
   transition: 1s;
-  margin-left: -240px;
+  margin: auto;
+  position: absolute;
+  right: 0;
+  left: 0;
 }
 
 .card-carousel .my-card.prev, .card-carousel .my-card.next {
@@ -228,12 +231,16 @@ html body .heading a .fab {
   margin-left: -216px;
 }
 .card-carousel .my-card.prev {
-  margin-top: 270px;
+  top: 131px;
+  left: -107px;
 }
 </style>
 </head>
 <body>
 <div class="card-carousel">
+  <div class="my-card"></div>
+  <div class="my-card"></div>
+  <div class="my-card"></div>
   <div class="my-card"></div>
   <div class="my-card"></div>
   <div class="my-card"></div>
@@ -263,7 +270,9 @@ $('.my-card').click(function() {
   } else if ($(this).hasClass('prev')) {
     $('.card-carousel').stop(false, true).animate({left: '+=' + $slide});
   }
-  
+
+
+
   $(this).removeClass('prev next');
   $(this).siblings().removeClass('prev active next');
   
