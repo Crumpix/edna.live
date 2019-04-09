@@ -26,7 +26,7 @@
                 <a href="#"><img src="assets/images/logo-head.png"></a>
             </div>
             <div class="col-md-6">
-                <ul class="list-inline">
+                <ul class="list-inline text-uppercase">
                     <li class="list-inline-item"><a href="#">Home</a></li>
                     <li class="list-inline-item"><a href="#">Community</a></li>
                     <li class="list-inline-item"><a href="#">Project</a></li>

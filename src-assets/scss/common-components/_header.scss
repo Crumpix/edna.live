@@ -3,12 +3,16 @@
   width: 100%;
   padding-top: 63px;
   z-index: 3;
-  a.nav-link {
-    color: $white-color !important;
-    font-size: $font-size-h4;
-    font-weight: 400;
+  a {
+    color: #fff!important;
+    font-size: 21px;
+    font-weight: 300;
+    line-height: 88px;
+    &:hover {
+      text-decoration: none;
+    }
   }
-  .navbar-expand-lg .navbar-nav .nav-link {
+  li {
     padding-right: 20px;
     padding-left: 20px;
   }
