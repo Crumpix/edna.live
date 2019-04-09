@@ -20,7 +20,7 @@ gulp.task('styles', function () {
 gulp.task('scripts', function() {
     return gulp.src([
 
-        'node_modules/jquery/dist/jquery.min.js',
+        //'node_modules/jquery/dist/jquery.min.js',
 
         //----- Bootstrap Components ------------------
 

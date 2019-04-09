@@ -28,14 +28,21 @@
 <section class="we-are">
     <div class="container">
         <div class="row">
-            <div class="col-md-7">
+            <div class="col-md-5">
                 <img src="assets/images/edna-logo.png">
                 <h1 class="text-uppercase">We are EDNA.</h1>
                 <p>EDNA is a Blockchain-based Distributed Autonomous Community Working to Insure Genetic Privacy and DNA Property Rights.</p>
                 <p>The ultimate aim of EDNA is to end human suffering caused by genetic disease, enhance longevity and to insure the genetic information is controlled by the people who that information impacts.</p>
             </div>
-            <div class="col-md-5">    
-               
+            <div class="col-md-7">    
+             <div class="card-carousel">
+                    <div class="my-card firstcard"></div>
+                    <div class="my-card secondcard"></div>
+                    <div class="my-card"></div>
+                    <!-- <div class="my-card"></div>
+                    <div class="my-card"></div>
+                    <div class="my-card"></div> -->
+                </div>
             </div>
         </div>
     </div>

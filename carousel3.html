@@ -4,35 +4,13 @@
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-<title>Responsive Smooth Card Carousel Demo</title>
-<link href="https://www.jqueryscript.net/css/jquerysctipttop.css" rel="stylesheet" type="text/css">
+<title>EDNA Live</title>
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
 
+<link href="style.css" rel="stylesheet" type="text/css">
+<link href="https://www.jqueryscript.net/css/jquerysctipttop.css" rel="stylesheet" type="text/css">
+
 <style>
-html {
-  min-height: 100vh;
-  align-items: center;
-  justify-content: center;
-  background: #ece9e6;
-  background-image: linear-gradient(to top, #fbc2eb 0%, #a6c1ee 100%);
-}
-
-html body {
-  width: 100%;
-  align-items: center;
-  justify-content: center;
-  flex-direction: column;
-  font-family: 'Quicksand', sans-serif;
-  overflow-x: hidden;
-  position: relative;
-  top: -2.5rem;
-}
-
-html body .heading {
-  text-align: center;
-  color: #2e5266;
-  margin-bottom: 3rem;
-}
 
 
 .card-carousel {
@@ -40,7 +18,7 @@ html body .heading {
   align-items: center;
   justify-content: center;
   position: absolute;
-  top: -450px;
+  top: -310px;
   left: -50% 
 }
 
@@ -226,6 +204,35 @@ html body .heading {
 </style>
 </head>
 <body>
+  
+  <section class="mast-head">
+    <!-- The video -->
+    <video autoplay muted loop id="myVideo">
+        <source src="assets/videos/bg-video.mp4" type="video/mp4">
+    </video>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-9">
+                <p class="latest-news"><span class="badge badge-secondary">New</span>SomaticNet mutation caller, released at NeurIPS 2018<a href="#"><svg class="icon icon-circle-right"><use xlink:href="#icon-circle-right"></use></svg></a></p>
+                <h1 class="text-uppercase">Your DNA is your property</h1>
+            </div>
+            <div class="col-md-3">
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-6">
+                <p>Forge your own destiny and define your  DNA. Influence how history unfolds by sharing your DNA with our community.Your decision to share can help cure cancer and reshape your own genetic code.</p>
+                <p>Learn how your DNA strand is being shared around the world and take control of what belongs to you.</p>
+            </div>
+            <div class="col-md-6">
+
+            </div>
+        </div>
+        <a href="#"><svg class="icon icon-arrow-down2"><use xlink:href="#icon-arrow-down2"></use></svg></a>
+    </div>
+</section>
+
+
 <section class="we-are">
     <div class="container-fluid">
         <div class="row">
@@ -240,26 +247,86 @@ html body .heading {
                     <div class="my-card firstcard"></div>
                     <div class="my-card secondcard"></div>
                     <div class="my-card"></div>
-                    <!-- <div class="my-card"></div>
-                    <div class="my-card"></div>
-                    <div class="my-card"></div> -->
                 </div>
             </div>
         </div>
-        <!-- <div class="row">
-            <div class="col-md-12">
-                <div class="card-carousel">
-                    <div class="my-card"></div>
-                    <div class="my-card"></div>
-                    <div class="my-card"></div>
-                    <div class="my-card"></div>
-                    <div class="my-card"></div>
-                    <div class="my-card"></div>
-                </div>
-            </div>
-        </div> -->
     </div>
 </section>
+
+<section class="what-we-do">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-md-6 col-sm-12 own-your-dna featured-image">
+                <h1>Own Your DNA</h1>
+            </div>  
+            <div class="col-md-6 col-sm-12 right-description">
+                <img src="assets/images/ownership-shape.png"><h3>Ownership</h3>
+                <p>Be the creator and realize the truth that lives within you. No one can claim ownership of your destiny, your DNA. With our proprietary software, you can track your DNA in all scientific areas.<!-- of researched it is used and claim rights.  Share one destiny with us. Your destiny.--></p>
+            </div>
+        </div>
+        <div class="d-flex flex-row-reverse">
+            <div class="col-md-6 col-sm-12 earn-tokens featured-image">
+                <h1>Earn Tokens</h1>
+            </div>
+            <div class="col-md-6 col-sm-12 left-description text-right">
+                <h3>DECENTRLIZED</h3><img src="assets/images/decentrlized-shape.png">
+                <p>Once we load your in our blockchain system, doctors around the world have access to this system and can use the data as needed in their research for the awakening of all of humanity.</p>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-6 col-sm-12 save-lives featured-image">
+                <h1>Save Lives</h1>
+            </div>
+            <div class="col-md-6 col-sm-12 right-description">
+                <img src="assets/images/gives-back-shape.png"><h3>GIVES BACK</h3>
+                <p>EDNA Members support efforts to halt illegal poaching of our precious wildlife as well as help fight trafficking in humans by automatically sending a portion of their profits to support these programs.</p>
+            </div>
+        </div>
+        <div class="d-flex flex-row-reverse">
+            <div class="col-md-6 col-sm-12 advancing-dna featured-image">
+                <h1>Advancing DNA</h1>
+            </div>
+            <div class="col-md-6 col-sm-12 left-description text-right">
+                <h3>Monetization</h3><img src="assets/images/monetization-shape.png">
+                <p>After we compile thousands of strands, we can have a unified database to find the best strands to duplicate and share with the world. People can choose the healthiest strands and modify their DNA accordingly.</p>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="autonomous-community">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <h1 class="text-uppercase">Decentralised Autonomous Community</h1>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-6">
+                <p>The EDNA DAC will allow people to control their own genetic data and more importantly genetic futures. It’s rather challenging for governments and organizations to restrict and control information once it’s on the blockchain. That one’s important, but that’s all I’m saying for now. </p>
+                <p>Also important is the ability to secure your personal genetic information, and be in control of its monetization.</p>
+                <button type="button" class="btn btn-primary">Learn More</button>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="power-science">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-5">
+                <img src="assets/images/power-science.png">
+            </div>
+            <div class="col-md-7">
+                <h1>Power Your Science</h1>
+                <p>When you awaken yourself to the Om, you will understand energy, business, love, and all else in between on a whole new level. This is best explained as a vibration that sends sensations to all parts of your body, mind, and spirit. </p>
+                <p>If you want to find the secrets of the universe, think in terms of energy, frequency and vibration. </p>
+                <button type="button" class="btn btn-primary">Know Yourself</button>
+            </div>
+        </div>
+    </div>
+</section>
+
 <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha384-tsQFqpEReu7ZLhBV2VZlAu7zcOV+rXbYlF2cqB8txI/8aZajjp4Bqd+V6D5IgvKT" crossorigin="anonymous"></script> 
 <script>
 $num = $('.my-card').length;
