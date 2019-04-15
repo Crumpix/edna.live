@@ -261,8 +261,9 @@
     position: relative;
     img {
       position: absolute;
-      left: 0;
+      left: -280px;
       top: -52px;
+      height: 715px;
     }
   }
 }
@@ -312,6 +313,8 @@
   .power-science .col-md-5 img {
     position: relative;
     width: 100%;
+    left: 0;
+    height: 360px;
   }
   .autonomous-community h1 {
     font-size: 42px !important;
@@ -356,6 +359,9 @@
   }
   .mast-head {
     padding-top: 187px;
+  }
+  .autonomous-community {
+    padding-bottom: 212px;
   }
   /*.mast-head .container .icon-arrow-down2 { 
     bottom: -43px;
