@@ -87,13 +87,19 @@
 .what-we-do {
   background: #ececec;
   background-size: cover;
+  .container-fluid {
+    padding-left: 0;
+    padding-right: 0;
+  }
   h3 {
     font-size: 33px;
     text-transform: uppercase;
     font-weight: 700;
+    color: white;
   }
   p {
     max-width: 580px;
+    color: white;
   }
   .own-your-dna {
     background: url("assets/images/own-your-dna.png");
@@ -127,12 +133,38 @@
       width: 322px;
     }
   }
+  .own-your-dna-right {
+    background-color: #dc51a3;
+  }
+  .earn-tokens-left {
+    background-color: #714ae2;
+  }
+  .gives-back-right {
+    background: #3c88d0;
+  }
+  .advancing-dna-left {
+    background: #1ebdae;
+  }
   .right-description {
     padding-left: 120px;
     padding-top: 110px;
     p {
       float: left;
       padding-top: 47px;
+    }
+    .own-your-dna-icon {
+      width: 109px;
+      width: 126px;
+      display: inline-block;
+      margin-right: 26px;
+      margin-top: -30px;
+    }
+    .save-lives-icon {
+      width: 109px;
+      width: 126px;
+      display: inline-block;
+      margin-right: 26px;
+      margin-top: -30px;
     }
     img {
       display: inline-block;
@@ -148,6 +180,20 @@
     p {
       float: right;
       padding-top: 47px;
+    }
+    .decentralized-icon {
+      width: 109px;
+      width: 126px;
+      display: inline-block;
+      margin-left: 36px;
+      margin-top: -30px;
+    }
+    .advancing-dna-icon {
+      width: 109px;
+      width: 126px;
+      display: inline-block;
+      margin-left: 36px;
+      margin-top: -30px;
     }
     img {
       display: inline-block;
@@ -178,10 +224,11 @@
   }
 }
 .autonomous-community {
-  background: url("assets/images/autonomous-community.png") bottom right no-repeat;
+  background: url("assets/images/autonomous-community.svg") bottom right no-repeat;
   background-color: #fff;
   padding-top: 156px;
-  padding-bottom: 224px;
+  padding-bottom: 532px;
+  background-size: 100%;
   h1 {
     font-size: 50px !important;
     line-height: 50px;
@@ -310,7 +357,7 @@
   .mast-head {
     padding-top: 187px;
   }
-  .mast-head .container .icon-arrow-down2 { {
+  /*.mast-head .container .icon-arrow-down2 { 
     bottom: -43px;
-  }
+  }*/
  }

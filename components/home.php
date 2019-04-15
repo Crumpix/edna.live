@@ -54,8 +54,8 @@
             <div class="col-md-6 col-sm-12 own-your-dna featured-image">
                 <h1>Own Your DNA</h1>
             </div>  
-            <div class="col-md-6 col-sm-12 right-description">
-                <img src="assets/images/ownership-shape.png"><h3>Ownership</h3>
+            <div class="col-md-6 col-sm-12 right-description own-your-dna-right">
+            <svg class="own-your-dna-icon"><use xlink:href="#own-your-dna-icon"></use></svg><h3>Ownership</h3>
                 <p>Be the creator and realize the truth that lives within you. No one can claim ownership of your destiny, your DNA. With our proprietary software, you can track your DNA in all scientific areas.<!-- of researched it is used and claim rights.  Share one destiny with us. Your destiny.--></p>
             </div>
         </div>
@@ -63,8 +63,8 @@
             <div class="col-md-6 col-sm-12 earn-tokens featured-image">
                 <h1>Earn Tokens</h1>
             </div>
-            <div class="col-md-6 col-sm-12 left-description text-right">
-                <h3>DECENTRLIZED</h3><img src="assets/images/decentrlized-shape.png">
+            <div class="col-md-6 col-sm-12 left-description text-right earn-tokens-left">
+                <h3>DECENTRLIZED</h3><svg class="decentralized-icon"><use xlink:href="#decentralized-icon"></use></svg>
                 <p>Once we load your in our blockchain system, doctors around the world have access to this system and can use the data as needed in their research for the awakening of all of humanity.</p>
             </div>
         </div>
@@ -72,8 +72,8 @@
             <div class="col-md-6 col-sm-12 save-lives featured-image">
                 <h1>Save Lives</h1>
             </div>
-            <div class="col-md-6 col-sm-12 right-description">
-                <img src="assets/images/gives-back-shape.png"><h3>GIVES BACK</h3>
+            <div class="col-md-6 col-sm-12 right-description gives-back-right">
+            <svg class="save-lives-icon"><use xlink:href="#save-lives-icon"></use></svg><h3>GIVES BACK</h3>
                 <p>EDNA Members support efforts to halt illegal poaching of our precious wildlife as well as help fight trafficking in humans by automatically sending a portion of their profits to support these programs.</p>
             </div>
         </div>
@@ -81,8 +81,8 @@
             <div class="col-md-6 col-sm-12 advancing-dna featured-image">
                 <h1>Advancing DNA</h1>
             </div>
-            <div class="col-md-6 col-sm-12 left-description text-right">
-                <h3>Monetization</h3><img src="assets/images/monetization-shape.png">
+            <div class="col-md-6 col-sm-12 left-description text-right advancing-dna-left">
+                <h3>Monetization</h3><svg class="advancing-dna-icon"><use xlink:href="#advancing-dna-icon"></use></svg>
                 <p>After we compile thousands of strands, we can have a unified database to find the best strands to duplicate and share with the world. People can choose the healthiest strands and modify their DNA accordingly.</p>
             </div>
         </div>
