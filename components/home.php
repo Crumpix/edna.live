@@ -92,14 +92,9 @@
 <section class="autonomous-community">
     <div class="container">
         <div class="row">
-            <div class="col-md-12">
-                <h1 class="text-uppercase">Decentralised Autonomous Community</h1>
-            </div>
-        </div>
-        <div class="row">
-            <div class="col-md-6">
+            <div class="col-md-4">
+                <h1 class="text-uppercase">THE DAC</h1>
                 <p>The EDNA DAC will allow people to control their own genetic data and more importantly genetic futures. It’s rather challenging for governments and organizations to restrict and control information once it’s on the blockchain. That one’s important, but that’s all I’m saying for now. </p>
-                <p>Also important is the ability to secure your personal genetic information, and be in control of its monetization.</p>
                 <button type="button" class="btn btn-primary">Learn More</button>
             </div>
         </div>
