@@ -268,6 +268,56 @@
     }
   }
 }
+.constitution-graphic {
+  background: url(assets/images/mast-head-con.png) right center;
+  background-size: 100%;
+  padding-top: 953px;
+  h1 {
+    font-size: 53px !important;
+    text-decoration: underline;
+    color: #3864a1;
+    font-weight: 800;
+    margin-bottom: 42px;
+  }
+  p {
+    color: #3864a1;
+    margin-bottom: 94px;
+  }
+}
+.tenants-section {
+  h2 {
+    color: #69cac1;
+    text-transform: uppercase;
+    margin-bottom: 47px;
+    text-decoration: underline;
+    font-weight: 800;
+  }
+  .tenant-descriptions {
+    background: url(assets/images/tenants-icons.png) no-repeat;
+    .tenant-description {
+      padding-left: 257px;
+      h3 {
+        color: #3864a1;
+        text-transform: uppercase;
+        text-decoration: underline;
+        font-size: 30px;
+        font-weight: 800;
+        padding-top: 50px;
+      }
+      p {
+        color: #3864a1;
+      }
+    }
+  }  
+}
+.constitution-info {
+  padding-top: 93px;
+  padding-bottom: 80px;
+  p {
+    margin-bottom: 40px;
+    color: #3864a1;
+  }
+}
 
 @media (max-width: 767.98px) {
   .what-we-do h3 {
@@ -368,3 +418,5 @@
     bottom: -43px;
   }*/
  }
+ /* Edna Constitution Page */
+
