@@ -1,9 +1,18 @@
 <section class="constitution-graphic">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-md-12">
+                <img src="assets/images/mast-head-con.png">
+            </div>
+        </div>
+    </div>
     <div class="container">
         <div class="row">
             <div class="col-md-8">
                 <h1>THE EDNA CONSTITUTION</h1>
                 <p>We the members of this deceantralized autonomous community, hereinafter known as EDNA, do band together in cooperation and do pledge ourselves to defend and uphold the following ethical principles:</p>
+            </div>
+            <div class="col-md-2">
             </div>
         </div>
     </div>
@@ -14,6 +23,13 @@
         <div class="row">
             <div class="col-md-12">
                 <h2>Tenants</h2>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-3 col-5">
+                <img src="assets/images/tenants-icons.png">
+            </div>
+            <div class="col-md-9 col-7">
                 <div class="tenant-descriptions">
                     <div class="tenant-description">
                         <h3>IDENTITY</h3>

@@ -268,20 +268,25 @@
     }
   }
 }
+/* Constitution Page */
 .constitution-graphic {
-  background: url(assets/images/mast-head-con.png) right center;
-  background-size: 100%;
-  padding-top: 953px;
-  h1 {
-    font-size: 53px !important;
-    text-decoration: underline;
-    color: #3864a1;
-    font-weight: 800;
-    margin-bottom: 42px;
+  .container-fluid {
+    padding: 0;
+    img {
+      max-width: 100%;
+    }
   }
-  p {
-    color: #3864a1;
-    margin-bottom: 94px;
+  .container {
+    margin-top: -235px;
+    h1 {
+      font-size: 53px !important;
+      text-decoration: underline;
+      font-weight: 800;
+      margin-bottom: 42px;
+    }
+    p {
+      margin-bottom: 94px;
+    }
   }
 }
 .tenants-section {
@@ -292,20 +297,17 @@
     text-decoration: underline;
     font-weight: 800;
   }
+  img {
+    max-width: 100%;
+  }
   .tenant-descriptions {
-    background: url(assets/images/tenants-icons.png) no-repeat;
     .tenant-description {
-      padding-left: 257px;
       h3 {
-        color: #3864a1;
         text-transform: uppercase;
         text-decoration: underline;
         font-size: 30px;
         font-weight: 800;
         padding-top: 50px;
-      }
-      p {
-        color: #3864a1;
       }
     }
   }  
@@ -315,7 +317,6 @@
   padding-bottom: 80px;
   p {
     margin-bottom: 40px;
-    color: #3864a1;
   }
 }
 
@@ -419,4 +420,18 @@
   }*/
  }
  /* Edna Constitution Page */
-
+ @media (max-width: 576px) {
+  .tenant-description {
+    height: 130px;
+    overflow: scroll;
+    margin-bottom: 10px;
+  }
+  .tenants-section .tenant-descriptions .tenant-description h3 {
+    font-size: 26px;
+    padding-top: 0px;
+  }
+  .tenants-section .tenant-descriptions .tenant-description p {
+    font-size: 18px;
+    line-height: 20px;
+  }
+ }
