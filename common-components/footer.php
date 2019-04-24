@@ -1,3 +1,56 @@
+
+<!--
+<footer class="site-footer">
+
+    <section class="pre-footer">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12 text-center">
+                    <h2 class="text-uppercase">Contact Us</h2>
+                    <ul class="list-unstyled">
+                        <p><a href="#">support@edna.life</a> | <a href="#">715-602-9200</a></p>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="main-footer">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6">
+                    <h2>Contact Details</h2>
+                    <div class="border-bottom"></div>
+                    <ul class="list-unstyled">
+                        <li><a href="#">support@edna.life</a></li>
+                        <li><a href="#">715-602-9200</a></li>
+                    </ul>
+                </div>
+                <div class="col-md-6">
+                    <p>Today, more than ever, we can align our DNA and unlock the answers to life by tuning into the Om frequency. When you are ready join our community and find your inner power.</p>
+                    <div class="border-left"></div>
+                    <div class="border-bottom-two"></div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="post-footer">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6">
+                    <a href="#"><svg class="icon icon-paperplane"><use xlink:href="#icon-paperplane"></use></svg></a>
+                    <a href="#"><svg class="icon icon-facebook"><use xlink:href="#icon-facebook"></use></svg></a>
+                    <a href="#"><svg class="icon icon-twitter"><use xlink:href="#icon-twitter"></use></svg></a>
+                    <a href="#"><svg class="icon icon-linkedin"><use xlink:href="#icon-linkedin"></use></svg></a>
+                </div>
+                <div class="col-md-6">
+                    <p>&copy; Copyrights 2019 EDNA. ALL RIGHTS RESERVED.</p>    
+                </div>
+            </div>
+        </div>
+    </section>
+</footer> -->
+
+
 <footer class="site-footer">
 
     <section class="pre-footer">
@@ -38,6 +91,7 @@
 
 <script async src="assets/js/scripts.js"></script>
 <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha384-tsQFqpEReu7ZLhBV2VZlAu7zcOV+rXbYlF2cqB8txI/8aZajjp4Bqd+V6D5IgvKT" crossorigin="anonymous"></script> 
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
 <script>
 $num = $('.my-card').length;
 $even = $num / 2;

@@ -19,7 +19,7 @@
 <body>
 <?php require_once "svg-icons.php"; ?>
 
-<header class="site-header">
+<header class="header-dark">
     <div class="container">
         <div class="row">
             <div class="col-md-6">
@@ -28,8 +28,9 @@
             <div class="col-md-6">
                 <ul class="list-inline text-uppercase">
                     <li class="list-inline-item"><a href="#">Home</a></li>
-                    <li class="list-inline-item"><a href="#">Constitution</a></li>
-                    <li class="list-inline-item"><a href="#">Team</a></li>
+                    <li class="list-inline-item"><a href="#">Community</a></li>
+                    <li class="list-inline-item"><a href="#">Project</a></li>
+                    <li class="list-inline-item"><a href="#">News</a></li>
                 </ul>
             </div>
         </div>

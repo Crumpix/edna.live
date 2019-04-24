@@ -1,7 +1,41 @@
 .site-header {
-  position: relative;
+  position: absolute;
   width: 100%;
   padding-top: 63px;
+  z-index: 3;
+  a {
+    color: #fff!important;
+    font-size: 21px;
+    font-weight: 300;
+    line-height: 88px;
+    &:hover {
+      text-decoration: none;
+      background: transparent;
+    }
+  }
+  li {
+    padding-right: 20px;
+    padding-left: 20px;
+  }
+  .container {
+    .row {
+      .col-md-12 {
+        .bg-light {
+          background-color: transparent !important;
+        }
+      }
+    }
+    .navbar-brand {
+      img {
+        width: 100%;
+      }
+    }
+  }
+}
+.header-dark {
+  position: relative;
+  width: 100%;
+  padding-top: 14px;
   z-index: 3;
   a {
     color: #000!important;
@@ -29,5 +63,24 @@
         width: 100%;
       }
     }
+  }
+}
+.dropdown-menu {
+  background: black !important;
+}
+
+@media (max-width: 767.98px) {
+.site-header ul {
+    display: block !important;
+    margin-top: 16px;
+    li {
+      a {
+        line-height: 45px;
+      }
+    }
+  }
+  .site-header li {
+    padding-right: 9px;
+    padding-left: 9px;
   }
 }

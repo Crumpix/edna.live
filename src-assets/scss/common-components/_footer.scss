@@ -1,3 +1,124 @@
+/*.site-footer {
+    background-color: black;
+    h1 {
+        color: white;
+    }
+    p {
+        color: white;
+    }
+    .pre-footer {
+        padding-top: 50px;
+        padding-bottom: 40px;
+        position: relative;
+        overflow: hidden;
+        background: #90f1f9;
+        h2 {
+            color: #37629f;
+            font-size: 24px;
+            text-transform: uppercase;
+            font-size: 27px;
+            font-weight: 400;
+            margin-bottom: 23px;
+            line-height: 21px;
+            font-weight: 800;
+        }
+        .border-bottom {
+            width: 38px;
+            height: 3px;
+            background-color: white;
+            margin-bottom: 36px;
+        }
+        ul {
+            li {
+                font-size: 24px;
+                font-weight: 400;
+                a {
+                    color : white;
+                }
+                &:hover {
+                    text-decoration: none !important;
+                    color: red !important;
+                }
+            }
+        }
+        .border-left {
+            height: 448px;
+            position: absolute;
+            top: -134px;
+            left: 0px;
+        }
+        .border-bottom-two {
+            border-bottom: solid 1px #fff;
+            position: absolute;
+            bottom: -139px;
+            width: 1092px;
+            left: 0px;
+        }
+    }
+    .main-footer {
+        padding-top: 64px;
+        padding-bottom: 68px;
+        background: #37629f;
+        p {
+            font-size: 18px;
+            text-transform: uppercase;
+        }
+        .icon {
+            margin-right: 23px;
+            margin-left: 23px;
+            width: 40px;
+            height: 40px;
+        }
+        .icon-paperplane {
+            margin-left: 0px;
+            background-color: #2e5870;
+            padding-top: 8px;
+            padding-bottom: 8px;
+            border-radius: 29px;
+            padding-right: 7px;
+            padding-left: 4px;
+            color: white;
+            fill: white;
+        }
+    }
+    .post-footer {
+        padding-top: 64px;
+        padding-bottom: 68px;
+        background: #4d6fac;
+        p {
+            font-size: 18px;
+            text-transform: uppercase;
+        }
+        .icon {
+            margin-right: 23px;
+            margin-left: 23px;
+            width: 40px;
+            height: 40px;
+        }
+        .icon-paperplane {
+            margin-left: 0px;
+            background-color: #2e5870;
+            padding-top: 8px;
+            padding-bottom: 8px;
+            border-radius: 29px;
+            padding-right: 7px;
+            padding-left: 4px;
+            color: white;
+            fill: white;
+        }
+    }
+}
+
+Media Queries 
+
+@media (max-width: 768px) { 
+    .flex-row-reverse {
+      flex-direction: row !important;
+    }
+    
+  }*/
+
+
 .site-footer {
     background-color: black;
     h1 {
@@ -83,11 +204,10 @@
     }
 }
 
-/* Media Queries */
 
 @media (max-width: 768px) { 
     .flex-row-reverse {
       flex-direction: row !important;
     }
     
-  }
+  } 

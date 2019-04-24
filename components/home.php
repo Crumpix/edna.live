@@ -13,11 +13,11 @@
             </div>
         </div>
         <div class="row">
-            <div class="col-md-6">
+            <div class="col-md-8">
                 <p>Forge your own destiny and define your  DNA. Influence how history unfolds by sharing your DNA with our community.Your decision to share can help cure cancer and reshape your own genetic code.</p>
-                <p>Learn how your DNA strand is being shared around the world and take control of what belongs to you.</p>
+                <img src="assets/images/edna-gyftie.png">
             </div>
-            <div class="col-md-6">
+            <div class="col-md-4">
 
             </div>
         </div>
@@ -29,15 +29,16 @@
     <div class="container">
         <div class="row">
             <div class="col-md-5">
+                <img src="assets/images/edna-logo.png">
                 <h1 class="text-uppercase">We are EDNA.</h1>
                 <p>EDNA is a Blockchain-based Distributed Autonomous Community Working to Insure Genetic Privacy and DNA Property Rights.</p>
                 <p>The ultimate aim of EDNA is to end human suffering caused by genetic disease, enhance longevity and to insure the genetic information is controlled by the people who that information impacts.</p>
             </div>
             <div class="col-md-7">    
              <div class="card-carousel">
-                    <div class="my-card firstcard"></div>
-                    <div class="my-card secondcard"></div>
-                    <div class="my-card"></div>
+                    <div class="my-card firstcard"><a href="https://eosdublin.podbean.com/e/edna-greg-simpson/" target="_blank"><img src="assets/images/podbean.png"></a></div>
+                    <div class="my-card secondcard"><a href="https://www.youtube.com/embed/mIc6evK-_AM" target="_blank"><img src="assets/images/trybe.png"></a></div>
+                    <div class="my-card thirdcard"><a href="https://youtu.be/sVAL58QByXQ" target="_blank"><img src="assets/images/trybe2.png"></a></div>
                     <!-- <div class="my-card"></div>
                     <div class="my-card"></div>
                     <div class="my-card"></div> -->
@@ -58,7 +59,7 @@
                 <p>Be the creator and realize the truth that lives within you. No one can claim ownership of your destiny, your DNA. With our proprietary software, you can track your DNA in all scientific areas.<!-- of researched it is used and claim rights.  Share one destiny with us. Your destiny.--></p>
             </div>
         </div>
-        <div class="d-flex flex-row-reverse">
+        <div class="row d-flex flex-row-reverse">
             <div class="col-md-6 col-sm-12 earn-tokens featured-image">
                 <h1>Earn Tokens</h1>
             </div>
@@ -76,7 +77,7 @@
                 <p>EDNA Members support efforts to halt illegal poaching of our precious wildlife as well as help fight trafficking in humans by automatically sending a portion of their profits to support these programs.</p>
             </div>
         </div>
-        <div class="d-flex flex-row-reverse">
+        <div class="row d-flex flex-row-reverse">
             <div class="col-md-6 col-sm-12 advancing-dna featured-image">
                 <h1>Advancing DNA</h1>
             </div>
